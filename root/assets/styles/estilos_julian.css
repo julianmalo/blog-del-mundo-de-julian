@@ -1,0 +1,18 @@
+.articulo {
+    color: rgb(58, 31, 178)
+}
+
+body {
+
+    background-color: black;
+    color: aliceblue;
+}
+
+.resaltado {
+    color: #FFFF00;
+}
+
+#blog_del_mundo {
+    text-align: center;
+    font-size: 3rem;
+}
