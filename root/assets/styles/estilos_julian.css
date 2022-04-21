@@ -1,5 +1,6 @@
 .articulo {
-    color: rgb(58, 31, 178)
+    color: rgb(58, 31, 178);
+    padding: 1.5rem;
 }
 
 body {
@@ -15,4 +16,5 @@ body {
 #blog_del_mundo {
     text-align: center;
     font-size: 3rem;
+    
 }

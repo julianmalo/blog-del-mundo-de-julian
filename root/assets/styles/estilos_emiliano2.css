@@ -6,7 +6,10 @@ body {
 
 
 .color_article {
-    color: rgb(44, 43, 44)
+    color: rgb(44, 43, 44);
+    padding: 1.5rem;
+    border-bottom: #FFFFFF 1px solid;
+  
 }
 
 .resaltado {
@@ -16,4 +19,6 @@ body {
 #blog_del_mundo {
     text-align: center;
     font-size: 3rem;
+    
 }
+
